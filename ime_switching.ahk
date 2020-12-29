@@ -4,7 +4,7 @@
 
 #SingleInstance force
 #UseHook
-#include lib/IME.ahk
+#include lib/ime.ahk
 
 global IME_MODE_CHINESE := 1025 ; 可使用另一个脚本查询你当前输入法的mode
 global IME_MODE_ENGLISH := 0

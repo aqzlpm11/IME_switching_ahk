@@ -11,6 +11,8 @@
 - 关闭所有中英文切换快捷键（Ctrl+Space，Shift和Ctrl）
 
 ## 运行方法
-安装ahk，运行ime_lock.ahk
+安装ahk，运行ime_switching.ahk
 
 注意：不同输入法，可能IME_code不同。可用query_ime_mode.ahk进行查询。
+
+开机启动：创建快捷方式，到windows的启动文件夹即可~
